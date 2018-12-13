@@ -1,0 +1,15 @@
+# Ignore all archives
+*.tar.xz
+*.tar.gz
+*.dmg
+*.zip
+*.7z
+*.hfs
+
+# Ignore release directory
+release/*
+release/
+
+release_backup/*
+release_backup/
+
